@@ -1,0 +1,21 @@
+.btn-1{
+    background-color: #4c96a9;
+    border: 2px solid;
+    border-radius: 1rem;
+    color: #ffffff;
+    justify-content: center;
+}
+.btn-2{
+    background-color: #8561b3;
+    border: 2px solid;
+    border-radius: 1rem;
+    color: #ffffff;
+    justify-content: center;
+}
+.font2{
+    font-size: xx-large;
+}
+.font h4{
+    font-size: small;
+    color: #4c96a9;
+}
